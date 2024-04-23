@@ -19,4 +19,6 @@ If you need to download it using terminal, you can use `gdown` tool.
 
 1. Run `pip install gdown` to install the tool
 2. Run `gdown --folder 1PM5lDLJr2LKleADL9zM65HOQY8ykYg2_ -O /output/path` with specified output path.
-s
+
+
+Feel free to ask any questions at gadaev.tamaz@gmail.com
